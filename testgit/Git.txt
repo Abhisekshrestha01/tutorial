@@ -1,0 +1,20 @@
+basic git commands:
+
+To initialize the git repository
+git init
+
+Add file
+git add
+
+for the status
+git status
+
+For commiting the change with comment
+git commit -m 'comment'
+
+To push the committed
+git push
+
+To pull the changes from the server
+git pull
+
